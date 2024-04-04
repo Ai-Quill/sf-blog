@@ -1,4 +1,6 @@
 Blog Post can be stored under root folder _posts: 
+
+######
 ---
 title: "How to build web scraper for everyone"
 excerpt: "Everyone often has the need to scrape data from website, for different purpose, from researching to market validation, or products and pricing monitoring. This guide is a step by step to achieve that"
